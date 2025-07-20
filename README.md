@@ -6,9 +6,8 @@ This project presents a comprehensive Power BI dashboard analysing sales, profit
 - To develop an interactive and insightful dashboard for tracking overall business performance.
 - To assist management in identifying top-performing products, customers, and regions.
 
-# Dataset Usedo
-- <a href="https://github.com/RainyPrajapati/Madhav-sales-Dashboard-Power-BI/blob/main/Details.csv">Datafile_Details</a>
-- <a href="https://github.com/RainyPrajapati/Madhav-sales-Dashboard-Power-BI/blob/main/Orders.csv">Datafile_Orders</a>
+# Dataset Used
+- <a href="https://github.com/RainyPrajapati/Madhav-sales-Dashboard-Power-BI/blob/main/Madhav%20Ecommerce%20sales%20data.xlsx">Dataset</a>
 
 # Tools & Technologies used in this Project
 - Power BI Desktop
