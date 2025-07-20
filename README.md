@@ -46,7 +46,7 @@ This project presents a comprehensive Power BI dashboard analysing sales, profit
 - Designed the dashboard for insights on profitability and customer behaviour.
 
 ## Dashboard
-<img width="1910" height="1084" alt="Madhav power bi dashboard image" src="https://github.com/user-attachments/assets/ce491432-8b40-4e55-a9e4-753058323275" />
+<img width="1784" height="1026" alt="Madhav sales dashboard Image" src="https://github.com/user-attachments/assets/9686af8f-999a-48fe-b5fe-ccf341b42458" />
 
 ## Conclusions
 - A major chunk of profit comes from just a few sub-categories. Businesses can scale earnings by focusing on Printers and Bookcases.
